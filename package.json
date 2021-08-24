@@ -1,0 +1,10 @@
+{
+  "name": "meilisearch-js-examples",
+  "version": "0.1.0",
+  "description": "A list of Javascript examples to communicate with MeiliSearch",
+  "author": "Morgane Dubus <morgane.dubus@meilisearch.com>",
+  "license": "MIT",
+  "dependencies": {
+    "meilisearch": "^0.19.0"
+  }
+}

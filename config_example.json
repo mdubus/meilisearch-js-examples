@@ -1,0 +1,9 @@
+{
+  "localhost": {
+    "host": "http://0.0.0.0:7700",
+    "apiKey": "masterKey",
+    "indexName": "movies",
+    "updateStatus": 0,
+    "documents": "./light_movies.json"
+  }
+}
